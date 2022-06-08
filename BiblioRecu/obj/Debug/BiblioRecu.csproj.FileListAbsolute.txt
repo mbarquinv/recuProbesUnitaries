@@ -1,0 +1,12 @@
+C:\Users\sergi\OneDrive\Escritorio\DAM2\DAM2-M5-UF2-Test Driven\BiblioRecu\BiblioRecu\bin\Debug\BiblioRecu.dll
+C:\Users\sergi\OneDrive\Escritorio\DAM2\DAM2-M5-UF2-Test Driven\BiblioRecu\BiblioRecu\bin\Debug\BiblioRecu.pdb
+C:\Users\sergi\OneDrive\Escritorio\DAM2\DAM2-M5-UF2-Test Driven\BiblioRecu\BiblioRecu\obj\Debug\BiblioRecu.csproj.AssemblyReference.cache
+C:\Users\sergi\OneDrive\Escritorio\DAM2\DAM2-M5-UF2-Test Driven\BiblioRecu\BiblioRecu\obj\Debug\BiblioRecu.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Escritorio\DAM2\DAM2-M5-UF2-Test Driven\BiblioRecu\BiblioRecu\obj\Debug\BiblioRecu.dll
+C:\Users\sergi\OneDrive\Escritorio\DAM2\DAM2-M5-UF2-Test Driven\BiblioRecu\BiblioRecu\obj\Debug\BiblioRecu.pdb
+C:\DAM2\dam2m5uf2\RecuHervas\BiblioRecu\bin\Debug\BiblioRecu.dll
+C:\DAM2\dam2m5uf2\RecuHervas\BiblioRecu\bin\Debug\BiblioRecu.pdb
+C:\DAM2\dam2m5uf2\RecuHervas\BiblioRecu\obj\Debug\BiblioRecu.csproj.AssemblyReference.cache
+C:\DAM2\dam2m5uf2\RecuHervas\BiblioRecu\obj\Debug\BiblioRecu.csproj.CoreCompileInputs.cache
+C:\DAM2\dam2m5uf2\RecuHervas\BiblioRecu\obj\Debug\BiblioRecu.dll
+C:\DAM2\dam2m5uf2\RecuHervas\BiblioRecu\obj\Debug\BiblioRecu.pdb
